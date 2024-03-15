@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+**About**
+======
 I'm a sophomore majoring in Electronic Information Engineering from [School of international, Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/). My current research interest includes reinforcement learning, computer vision, AI ethics and game theory.
 
 I'm currently applying the colleges of the United States as a transfer student in 24fall and I will get my bachelor's degree in Computer Science there. Fortunately, I have already had an offer from University of [Minnesota，Twin Cities](https://twin-cities.umn.edu/).
