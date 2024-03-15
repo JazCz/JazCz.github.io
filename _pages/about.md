@@ -26,16 +26,18 @@ Education
 Academic projects
 ======
 **1. MiniTrack: Remote Sensing Target Tracking**
+
 *Jul. 2023 - Aug. 2023, Cambridge, United Kingdom*
-*Utilized TensorFlow and YOLO for detecting small targets in remote sensing imagery, tackling challenges posed
+* Utilized TensorFlow and YOLO for detecting small targets in remote sensing imagery, tackling challenges posed
 by complex backgrounds and diverse scales
-*Implemented SORT algorithm for effective tracking of small targets in changing environments, aiding environmental monitoring and resource managemen
-*Integrated OpenCV and imgaug for improved target recognition and detection accuracy in image processing
+* Implemented SORT algorithm for effective tracking of small targets in changing environments, aiding environmental monitoring and resource managemen
+* Integrated OpenCV and imgaug for improved target recognition and detection accuracy in image processing
 
 [**2. Mahjong Strategy**](https://github.com/JazCz/MahjongStrategy)
+
 *March. 2024 - Present*
-*This offers an parameter-based strategy for different situtations in Mahjong
-*It is an interest-based JAVA programming practice.
+* This offers an parameter-based strategy for different situtations in Mahjong
+* It is an interest-based JAVA programming practice.
 
 
 Skills
