@@ -1,13 +1,12 @@
 ---
 permalink: /
 title: ""
-expcerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**About**
+**About me**
 ======
 I'm a sophomore majoring in Electronic Information Engineering from [School of international, Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/). My current research interest includes reinforcement learning, computer vision, AI ethics and game theory.
 
