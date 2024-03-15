@@ -11,7 +11,6 @@ I'm a sophomore majoring in Electronic Information Engineering from [School of i
 
 I'm currently applying the colleges of the United States as a transfer student in 24fall and I will get my bachelor's degree in Computer Science there. Fortunately, I have already had an offer from University of [Minnesota，Twin Cities](https://twin-cities.umn.edu/).
 
-You can find my CV [here](../assets/Curriculum_Vitae.pdf).
 
 
 Education
