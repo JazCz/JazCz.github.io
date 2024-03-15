@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhan Cheng"
+  name             : "Zhan Cheng (程展)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student"
-  location         : "Beijing"
+  location         : "Beijing, China"
   employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
   email            : "zhanc113003@gmail.com" 
