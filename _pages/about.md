@@ -44,3 +44,8 @@ Skills
 ======
 * Programming Languages: C/C++, JAVA, Python, LATEX
 
+# Notes
+======
+* Notes for Probability and Stochastic Process [view](../assets/Notes_P.pdf)
+
+
