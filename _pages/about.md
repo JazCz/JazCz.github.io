@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About me**
+About me
 ======
 I'm a sophomore majoring in Electronic Information Engineering from [School of international, Beijing University of Posts and Telecommunications](http://www.bupt.edu.cn/). My current research interest includes reinforcement learning, computer vision, AI ethics and game theory.
 
@@ -44,7 +44,7 @@ Skills
 ======
 * Programming Languages: C/C++, JAVA, Python, LATEX
 
-# Notes
+Notes
 ======
 * Notes for Probability and Stochastic Process [view](../assets/Notes_P.pdf)
 
