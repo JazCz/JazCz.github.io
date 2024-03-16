@@ -46,6 +46,6 @@ Skills
 
 Notes
 ======
-* Notes for Probability and Stochastic Process [view](../assets/Notes_P.pdf)
+* Notes for Probability and Stochastic Process [view](../assets/Notes_P.pdf) (Last update: 3/16/2024)
 
 
