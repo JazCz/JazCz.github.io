@@ -33,9 +33,10 @@ by complex backgrounds and diverse scales
 * Implemented SORT algorithm for effective tracking of small targets in changing environments, aiding environmental monitoring and resource managemen
 * Integrated OpenCV and imgaug for improved target recognition and detection accuracy in image processing
 
-[**2. Mahjong Strategy**](https://github.com/JazCz/MahjongStrategy)
+[**2. Mahjong Strategy**](https://github.com/JazCz/MahjongStrategy) with its [model](../assets/model.pdf)
 
 *March. 2024 - Present*
+
 * This offers an parameter-based strategy for different situtations in Mahjong
 * It is an interest-based JAVA programming practice.
 
@@ -47,5 +48,4 @@ Skills
 Notes
 ======
 * Notes for Probability and Stochastic Process [view](../assets/Notes_P.pdf) (Last update: 3/16/2024)
-
 
